@@ -1,3 +1,2 @@
 # rock_paper_scissor
-This project is made to create a rock papr scissor program with a UI.
-The game also has the music file as well as the icon.
+The code is initializing a Rock-Paper-Scissors game's user interface with buttons to play the game, a score display, and an option to select an avatar.
